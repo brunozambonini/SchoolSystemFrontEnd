@@ -3,5 +3,4 @@ export interface Student {
     nome: string;
     cpf: string;
     matricula: string;
-    // nascimento: Date;
   }

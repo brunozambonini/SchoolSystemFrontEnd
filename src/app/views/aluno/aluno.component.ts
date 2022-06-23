@@ -39,13 +39,11 @@ export class AlunoComponent implements OnInit {
         nome: '',
         cpf: '',
         matricula: '',
-        // nascimento: ''
       } : {
         id: element.id,
         nome: element.nome,
         cpf: element.cpf,
         matricula: element.matricula,
-        // nascimento: element.nascimento
       }
     });
 
